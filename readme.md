@@ -7,7 +7,7 @@ The app can be run either on Xcode, using the simulator, or on a real device sup
 							RUN ON XCODE’S SIMULATOR
 ———————————————————————————————————————————————
 
-If you choose to run the app on the simulator, the sound classification algorithm cannot be used because the app doesn’t have the required framework for audioProcessing on an Intel processor. For the rest the app works as usual.
+If you choose to run the app on the simulator, the sound classification algorithm cannot be used because the app doesn’t have the required framework for audio processing on an Intel processor. For the rest the app works as usual.
 
 
 								RUN ON REAL DEVICE
